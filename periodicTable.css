@@ -1,0 +1,74 @@
+body{
+	background-color:#eeeeee;
+	font-size:13px;
+	font-family:"Arial", Arial, sans-serif;
+}
+
+.rows, tr td{
+	display:table;
+	margin:2px;
+	border-spacing:2px;
+}
+
+.rows p{
+	display:table-cell;
+	width:40px;
+	height:45px;
+}
+
+.green{
+	background-color:#1fca21;
+}
+
+.gold{
+	background-color:#fecb00;
+}
+
+.pink{
+	background-color:#fd9a98;
+}
+
+.blue{
+	background-color:#689bff;
+}
+
+.noBorder{
+	border: 2px solid #eeeeee;
+}
+
+.element{
+	display:table-cell;
+	width:40px;
+	height:45px;
+	border:2px solid black;
+	font-size:11px;
+	text-align:center;
+}
+
+.redtext{
+	color:red;	
+	text-align:center;
+	vertical-align:middle;
+}
+
+
+
+#lanth{
+	width:121px;
+}
+
+#act{
+	width:116px;
+}
+
+#oneAss{
+	width:4px;
+}
+
+#twoAss{
+	width:4px;
+}
+
+#lanthrow{
+	margin-top:20px;
+}
